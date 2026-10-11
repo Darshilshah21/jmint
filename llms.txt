@@ -1,0 +1,20 @@
+# JMINT Consulting Services
+
+> AI consulting, AI agent development, RAG chatbots, MCP server development, multi-agent systems, AI automation and Django full-stack development. Fixed-price, on-time, budget-friendly delivery.
+
+## Services
+- [AI Consulting & Strategy](https://YOUR-USERNAME.github.io/YOUR-REPO/ai-consulting.html): AI consulting company for businesses: AI readiness audit, use-case discovery, ROI-driven AI roadmap and responsible AI. Budget-friendly, on-time delivery.
+- [AI Agent Development](https://YOUR-USERNAME.github.io/YOUR-REPO/ai-agent-development.html): Custom AI agent development: accounting insight agents, sales and support agents, data analyst agents. Fast delivery, transparent pricing, production-ready.
+- [RAG Chatbots & Live Data Chatbots](https://YOUR-USERNAME.github.io/YOUR-REPO/rag-chatbot-development.html): RAG chatbot development company: AI chatbots that answer from your documents, websites and live data sources with citations. Affordable, fast and secure.
+- [MCP Server Development & Integration](https://YOUR-USERNAME.github.io/YOUR-REPO/mcp-server-development.html): Model Context Protocol (MCP) development: custom MCP servers that connect your data and tools to ChatGPT, Claude and Gemini. Secure, fast, budget-friendly.
+- [Multi-Agent Systems](https://YOUR-USERNAME.github.io/YOUR-REPO/multi-agent-systems.html): Multi-agent AI development: parallel agents, supervisor-worker architectures and agent orchestration that finish complex work faster. Reliable and cost-controlled.
+- [AI Automation & Workflow Services](https://YOUR-USERNAME.github.io/YOUR-REPO/ai-automation-services.html): AI automation services: intelligent document processing, workflow automation, reporting and CRM automation that cut manual work and cost. Fixed price, on-time delivery.
+- [Live AI Avatars & Voice Agents](https://YOUR-USERNAME.github.io/YOUR-REPO/ai-avatar-voice-agents.html): Custom live AI avatars and voice agents that see, listen, speak and answer in real time. Receptionists, tutors, sales role-play and kiosk guides built to your brand.
+- [Model Training, Evaluation & Local Deployment](https://YOUR-USERNAME.github.io/YOUR-REPO/ml-model-training-deployment.html): Fine-tune open models on your data, measure them with proper evaluation suites and deploy them on your own servers or laptops. LoRA, vLLM, Ollama, MLOps.
+- [Data Engineering & Analytics](https://YOUR-USERNAME.github.io/YOUR-REPO/data-engineering-analytics.html): Data pipelines, warehouses, dashboards and forecasting for growing businesses. ETL, dbt, Airflow, Power BI, Python analysis and AI-ready data foundations.
+- [Full-Stack Web Development (Django)](https://YOUR-USERNAME.github.io/YOUR-REPO/django-fullstack-development.html): Django full-stack development: custom web apps, REST APIs, dashboards and portals with optional AI features. Clean code, on-time delivery, affordable pricing.
+
+## Other
+- [Technologies and method](https://YOUR-USERNAME.github.io/YOUR-REPO/technologies.html)
+- [Projects](https://YOUR-USERNAME.github.io/YOUR-REPO/projects.html)
+- [Contact](https://YOUR-USERNAME.github.io/YOUR-REPO/contact.html)
